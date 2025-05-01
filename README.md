@@ -2,47 +2,38 @@
 This repository showcases my hands-on practice from the CSE225: Developing Android Apps course. Each section is aligned with a specific concept or module I learned during the course, aiming to build a solid foundation in Android development using Java/Kotlin and Android Studio.
 
 🔍 Topics Covered
-UI Components and Basic Views
+1. UI Components and Basic Views
 
-ScrollView, Toolbar, RatingBar, SplashScreen, ProgressBar, Footer, Custom Toast
+.ScrollView, Toolbar, RatingBar, SplashScreen, ProgressBar, Footer, Custom Toast
 
-Application Communication & Background Scheduling
+2.Application Communication & Background Scheduling
 
-Intents and PendingIntents
+.Intents and PendingIntents
+.AlarmManager and JobScheduler
+.Notifications and Notification Channels
 
-AlarmManager and JobScheduler
+3.Fragments and Dialog Pickers
 
-Notifications and Notification Channels
+.Static and Dynamic Fragments
+.Communication between Fragments
+.DatePickerDialog and TimePickerDialog
 
-Fragments and Dialog Pickers
+4.Custom Views and Advanced UI Elements
 
-Static and Dynamic Fragments
+.Creating and styling custom views
+.Adding custom properties to views
+.Extending standard Android views
 
-Communication between Fragments
+5.Data Storage Techniques
 
-DatePickerDialog and TimePickerDialog
+.SharedPreferences for key-value storage
+.Internal and External Storage
+.Handling runtime permissions
 
-Custom Views and Advanced UI Elements
+6.Effective Navigation
 
-Creating and styling custom views
-
-Adding custom properties to views
-
-Extending standard Android views
-
-Data Storage Techniques
-
-SharedPreferences for key-value storage
-
-Internal and External Storage
-
-Handling runtime permissions
-
-Effective Navigation
-
-Navigation Drawer
-
-ViewPager and Swipe Views with Tabs
+.Navigation Drawer
+.ViewPager and Swipe Views with Tabs
 
 💻 Practicals Implemented
 ✅ UI Components & Basic Views App
@@ -58,10 +49,10 @@ ViewPager and Swipe Views with Tabs
 ✅ Effective Navigation App
 
 🚀 How to Run the Projects
-Clone this repository.
+1.Clone this repository.
 
-Open any module or project folder in Android Studio.
+2.Open any module or project folder in Android Studio.
 
-Sync Gradle and let dependencies install.
+3.Sync Gradle and let dependencies install.
 
-Build and run on emulator or physical device.
+4.Build and run on emulator or physical device.
